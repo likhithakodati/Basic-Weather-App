@@ -11,7 +11,8 @@ Python weather app that fetches real-time temperature, humidity, wind, and weath
 # Requirements
   * Python 3.x
   * request library
-Install required library using :
 
-pip intsall requests
+#Install required library using :
+
+ *pip intsall requests
 
