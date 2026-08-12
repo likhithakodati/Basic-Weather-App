@@ -1,5 +1,5 @@
 # Basic-Weather-App
-Python weather app that fetches real-time temperature, humidity, wind, and weather conditions.
+Python weather app that fetches real-time temperature, humidity and weather conditions.
 # Features 
 * Enter any city name
 * Displays:
